@@ -22,8 +22,8 @@ intents.message_content = True
 
 client = discord.Client(intents=intents)
 
-CHANNEL_ID = 1372531505028403251
-USER_ID = 1180452640816115782
+CHANNEL_ID = 1359498950167625829
+USER_ID = 1272170567835058206
 
 def read_messages_from_file(filename):
     try:
